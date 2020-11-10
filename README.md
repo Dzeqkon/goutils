@@ -28,7 +28,7 @@ $ go get -u github.com/Dzeqkon/goutils
 
 ```
 import (
-	tsgutils "github.com/typa01/go-utils"
+	tsgutils "github.com/Dzeqkon/go-utils"
 )
 ```
 ```
